@@ -1,0 +1,22 @@
+[
+  {
+    "name": "damping",
+    "short_desc": "Damping factor in the range [0.5, 1.0) is the extent to which the current value is maintained relative to incoming values (weighted 1 - damping).",
+    "default": 0.5,
+    "type": "float",
+    "search_type": "uniform",
+    "range_low": 0.5,
+    "range_high": 0.9999,
+    "run_HPO": true
+  },
+  {
+    "name": "preference",
+    "short_desc": "Preferences for each point - points with larger values of preferences are more likely to be chosen as exemplars.",
+    "default": -0.14,
+    "type": "float",
+    "search_type": "uniform",
+    "range_low": -1.0,
+    "range_high": 1.0,
+    "run_HPO": true
+  }
+]

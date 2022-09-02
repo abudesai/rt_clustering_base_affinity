@@ -1,0 +1,2 @@
+model,dataset_name,run_hpt,num_hpt_trials,purity,ami,dbi,chi,silhouette,dbi_best,chi_best,silhouette_best,elapsed_time_in_minutes
+clustering_base_affinity_propagation,wine,False,,0.927,0.4785,1.6384,24.3066,0.1199,1.4066,68.2519,0.2798,0.0

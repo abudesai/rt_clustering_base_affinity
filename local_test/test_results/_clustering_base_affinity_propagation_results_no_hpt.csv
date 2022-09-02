@@ -1,0 +1,10 @@
+model,dataset_name,run_hpt,num_hpt_trials,purity,ami,dbi,chi,silhouette,dbi_best,chi_best,silhouette_best,elapsed_time_in_minutes
+clustering_base_affinity_propagation,car,False,,0.7002,0.0,inf,inf,inf,4.5585,30.2153,-0.0053,0.11
+clustering_base_affinity_propagation,concentric_circles,False,,1.0,0.3453,0.5803,1922.6228,0.4708,494.3085,0.0038,0.0749,0.01
+clustering_base_affinity_propagation,four_worms,False,,0.999,0.5618,0.7348,16619.0283,0.4176,1.1177,6568.0217,0.3323,0.18
+clustering_base_affinity_propagation,iris,False,,0.92,0.5299,0.8923,175.9546,0.3489,1.0708,189.1739,0.3798,0.0
+clustering_base_affinity_propagation,penguins,False,,0.9795,0.5577,1.3047,263.8559,0.2364,0.9322,412.7087,0.4444,0.0
+clustering_base_affinity_propagation,statlog,False,,0.8751,0.4506,1.7209,765.2072,0.0981,1.5126,2584.2208,0.1912,0.88
+clustering_base_affinity_propagation,steel_plate_fault,False,,0.7285,0.3057,1.3598,113.8622,0.2239,3.516,105.4691,0.0143,0.09
+clustering_base_affinity_propagation,unequal_variance_blobs,False,,0.922,0.6608,0.8853,21825.4547,0.3399,0.7955,24140.1528,0.522,1.11
+clustering_base_affinity_propagation,wine,False,,0.927,0.4785,1.6384,24.3066,0.1199,1.4066,68.2519,0.2798,0.0

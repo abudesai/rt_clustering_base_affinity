@@ -1,0 +1,2 @@
+model,dataset_name,run_hpt,num_hpt_trials,purity,ami,dbi,chi,silhouette,dbi_best,chi_best,silhouette_best,elapsed_time_in_minutes
+clustering_base_affinity_propagation,steel_plate_fault,False,,0.7285,0.3057,1.3598,113.8622,0.2239,3.516,105.4691,0.0143,0.09

@@ -1,0 +1,2 @@
+model,dataset_name,run_hpt,num_hpt_trials,purity,ami,dbi,chi,silhouette,dbi_best,chi_best,silhouette_best,elapsed_time_in_minutes
+clustering_base_affinity_propagation,iris,False,,0.92,0.5299,0.8923,175.9546,0.3489,1.0708,189.1739,0.3798,0.0
